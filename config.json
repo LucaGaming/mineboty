@@ -1,12 +1,12 @@
 {
     "ip": "SurvivalSMPsz3.aternos.me",
     "port": "",
-    "name": "katy",
+    "name": "afkbot",
     "auto-night-skip": "false",
     "prefix": "",
     "login-enabled": "true",
-    "register-cmd": "/login kartikopp kartikopp",
-    "login-cmd": "/login kartikopp",
+    "register-cmd": "/login afkbot reg",
+    "login-cmd": "/login afkbot cmd",
     "loginmsg": "hello",
     "auto-reconnect": "true"
 }
