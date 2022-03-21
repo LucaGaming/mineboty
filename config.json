@@ -1,5 +1,5 @@
 {
-    "ip": "",
+    "ip": "SurvivalSMPsz3.aternos.me",
     "port": "",
     "name": "katy",
     "auto-night-skip": "false",
@@ -7,6 +7,6 @@
     "login-enabled": "true",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
-    "loginmsg": "",
+    "loginmsg": "hello",
     "auto-reconnect": "true"
 }
